@@ -1,8 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 body {
-    background-color: rgb(200,200,200);
+    background-color: rgb(247, 246, 220);
     color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
     text-align: center;
 }
 
@@ -13,11 +12,13 @@ body {
 }
 
 header {
-	
+	font-family: 'Balsamiq Sans', cursive;
+	text-shadow: 3px 2px #82816f;
+
 }
 
 footer {
-	font-style: italic;
+	font-family: 'Balsamiq Sans', cursive;
 	font-size: 90%;
 }
 
